@@ -16,17 +16,17 @@ public class Ejemplo03 {
      */
     public static void main(String[] args) {
         // Para crear un comentario de una linea se utiliza la barra doble, una vez comentado toda la linea va a servir para comentar
-        
-        // Tipos de dato en Java
-        
-        // Tipos de dato en Java
 
+        // Tipos de dato en Java
+        // Tipos de dato en Java
         // Tipo de datos Entero
-        
         /*
-         Para crear un comentario multilinea se utiliza para el inicio  /*  , se escribe el comentario y para cerrar el comemtario se utiliza * /        
-        */
+        
+        Para crear un comentario multilinea se utiliza para el inicio  /*  , se escribe el comentario y para cerrar el comemtario se utiliza * /        
+        
+         */
         int variable1;
+        int pepe = 10;
         int variable2 = 10;
         int valorInicial = 18;
         int valor_inicial = 18;
@@ -48,13 +48,13 @@ public class Ejemplo03 {
         // tipo de dato boolean - boleano
         boolean variable9 = false;
         boolean variable10 = true;
-        
+
         boolean variable11 = false;
         // boolean variable11 = false; // incorrecto
         variable11 = false;
         variable11 = true;
         // variable11 = variable6;
-        
+
     }
 
 }
