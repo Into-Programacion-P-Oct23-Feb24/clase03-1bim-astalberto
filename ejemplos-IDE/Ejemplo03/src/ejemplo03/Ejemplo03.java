@@ -15,6 +15,8 @@ public class Ejemplo03 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        // Para crear un comentario de una linea se utiliza la barra doble, una vez comentado toda la linea va a servir para comentar
+        
         // Tipos de dato en Java
         
         // Tipos de dato en Java
@@ -22,16 +24,7 @@ public class Ejemplo03 {
         // Tipo de datos Entero
         
         /*
-        q
-        q
-        q
-        q
-        q
-        q
-        q
-        q
-        q
-        q
+         Para crear un comentario multilinea se utiliza para el inicio  /*  , se escribe el comentario y para cerrar el comemtario se utiliza * /        
         */
         int variable1;
         int variable2 = 10;

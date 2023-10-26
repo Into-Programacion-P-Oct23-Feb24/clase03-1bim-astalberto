@@ -31,6 +31,7 @@ public class Ejemplo01 {
         
         System.out.println("Nombre ingresado es:" + nombre);
         System.out.println("Apellido ingresado es:" + apellido);
+        System.out.println(nombre+" "+apellido);
         
     }
     
